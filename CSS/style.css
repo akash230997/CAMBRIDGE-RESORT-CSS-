@@ -135,6 +135,7 @@ body{
     box-shadow: 5px 7px 14px 6px #3469BF;
     position: relative;
     right: -300px;
+    background-color: rgba(0, 0, 0, 0.202);
 }
 
 .inputcheck{
